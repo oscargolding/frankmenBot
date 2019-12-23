@@ -101,5 +101,5 @@ public/
 # Don't have our super secret token also included!
 token.json
 
-# Don't want any annoying idea files
+# Don't want any annoying idea files (specfically ide related)
 .idea/
